@@ -5,7 +5,7 @@
     "description": "를 목표로 나아가고 있습니다.",
     "image": "profilepic.jpg",
     "bio": "아이디어가 가장 중요한 시대에서 살아가는 30대에 접어들은 청년 수학을 좋아했지만 가장 싫어하는 전기를 전공하고 3년을 버티다. 혼자 카페에서 사색을 즐기고, 장르불문 영화와 독서에 빠져살았다. 그리고 이번에는 프로그래밍에 빠져 만드는 것을 즐기고 있습니다.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "contactmessage": "함께할 수 있는 영광을",
     "email": "jiny3360@naver.com",
     "phone": "+82 01047223360",
     "website": "https://www.github.com/jinypak",
@@ -34,8 +34,8 @@
       {
         "school": "라인아트학원",
         "degree": "웹 퍼블리셔 과정 수료",
-        "graduated": "2021 / 7",
-        "description": "Graduated with First Class Honours"
+        "graduated": "2021 . 7",
+        "description": "웹 퍼블리싱 및 프레임워크를 사용하는 법을 배웠습니다."
       }
     ],
     "work": [
@@ -44,6 +44,12 @@
         "title": "매니저",
         "years": "2021 . 10 ~ 2022 . 04",
         "description": "제이루시 홈페이지 및 외주 랜딩 페이지 작업"
+      },
+      {
+        "company": "ENTEC | 인텍전기전자",
+        "title": "연구원",
+        "years": "2017 . 10 ~ 2021 . 10",
+        "description": "중전기 계통의 연구원으로 제품 개발 프로젝트를 전반적으로 작업했습지다."
       }
     ],
     "skills": [
