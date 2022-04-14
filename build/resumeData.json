@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name": "Park Jinyong",
+    "occupation": "풀스택 개발자",
+    "description": "를 목표로 나아가고 있습니다.",
+    "image": "profilepic.jpg",
+    "bio": "아이디어가 가장 중요한 시대에서 살아가는 30대에 접어들은 청년 수학을 좋아했지만 가장 싫어하는 전기를 전공하고 3년을 버티다. 혼자 카페에서 사색을 즐기고, 장르불문 영화와 독서에 빠져살았다. 그리고 이번에는 프로그래밍에 빠져 만드는 것을 즐기고 있습니다.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "jiny3360@naver.com",
+    "phone": "+82 01047223360",
+    "website": "https://www.github.com/jinypak",
+    "resumedownload": "http://jiny3360.dothome.co.kr/portfolio/assets/cv/cv.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/%EC%A7%84%EC%9A%A9-%EB%B0%95-69b468223/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jiny_park92/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jinypak",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "라인아트학원",
+        "degree": "웹 퍼블리셔 과정 수료",
+        "graduated": "2021 / 7",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "JLUCY | 제이루시",
+        "title": "매니저",
+        "years": "2021 . 10 ~ 2022 . 04",
+        "description": "제이루시 홈페이지 및 외주 랜딩 페이지 작업"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML & CSS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "REACT",
+        "level": "70%"
+      },
+      {
+        "name": "Node",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "제이루시 홈페이지 제작",
+        "category": "",
+        "image": "jlucy.png",
+        "url": "http://jlucy.co.kr/"
+      },
+      {
+        "title": "UPLUS 랜딩 페이지 작업",
+        "category": "",
+        "image": "uplus.png",
+        "url": "http://3.35.128.14/common_pack/asset5_1/index.html"
+      },
+      {
+        "title": "Recipe App",
+        "category": "각국의 레시피를 검색해서 찾아볼 수 있습니다.",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "dream": {
+    "dream": [
+      {
+        "text": "해보고 싶은 일에 대한 아이디어는 충분하다고 생각합니다. 이제는 실현할 수 있는 능력만 갖춰지면 됩니다."
+      },
+      {
+        "text": "배움에는 끝이 없다는 것을 개발자로 전향하며 항상 느끼고 있습니다. 조금 더 나아갈 수 있는 사람이 되고 싶습니다."
+      }
+    ]
+  }
+}
