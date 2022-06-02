@@ -75,22 +75,28 @@
     "projects": [
       {
         "title": "제이루시 홈페이지 제작",
-        "category": "",
+        "description": "",
         "image": "jlucy.png",
         "url": "http://jlucy.co.kr/"
       },
       {
         "title": "UPLUS 랜딩 페이지 작업",
-        "category": "",
+        "description": "",
         "image": "uplus.png",
         "url": "http://3.35.128.14/common_pack/asset5_1/index.html"
       },
       {
         "title": "Recipe App",
-        "category": "각국의 레시피를 검색해서 찾아볼 수 있습니다.",
+        "description": "각국의 레시피를 검색해서 찾아볼 수 있습니다.",
         "image": "recipe.png",
         "url": "https://jinypak.github.io/recipe_app_project/"
-      }
+      },
+      {
+        "title": "Booking App",
+        "description": "여행지 숙박 장소 찾아보기",
+        "image": "recipe.png",
+        "url": " https://jiny-booking.netlify.app/"
+       }
     ]
   },
   "dream": {
