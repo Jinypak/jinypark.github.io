@@ -1,6 +1,7 @@
-import React, { createContext, useContext, useState } from "react";
+"use client";
 
-// Create a context for the sidebar toggle state
+import React, { createContext, useContext, useState, ReactNode } from "react";
+
 const SidebarToggleContext = createContext<{
   isSidebarOpen: boolean;
   toggleSidebar: () => void;
@@ -9,13 +10,9 @@ const SidebarToggleContext = createContext<{
   toggleSidebar: () => {},
 });
 
-// Custom hook to access the sidebar toggle context
 export const useMenuToggle = () => useContext(SidebarToggleContext);
 
-// Provider component to wrap your app and provide the sidebar toggle context
-export const MenuToggleProvider: React.FC<{ children: React.ReactNode }> = ({
-  children,
-}) => {
+export const MenuToggleProvider = ({ children }: { children: ReactNode }) => {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   const toggleSidebar = () => {

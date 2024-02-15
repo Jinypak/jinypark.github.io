@@ -17,7 +17,7 @@ type Props = {};
 
 const page = (props: Props) => {
   return (
-    <div className='w-[80%] mx-auto'>
+    <div className='max-w-5xl mx-auto'>
       <div className='grid grid-cols-2 justify-items-stretch p-20 gap-10'>
         <Card className='w-full'>
           <CardHeader>

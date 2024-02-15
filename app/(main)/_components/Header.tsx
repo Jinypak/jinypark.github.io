@@ -3,15 +3,17 @@
 import React from "react";
 import { Navigation } from "./Navigation";
 import Menu from "./Menu";
+import { usePathname } from "next/navigation";
 
 type Props = {};
 
 const Header = (props: Props) => {
+  const checkPath = usePathname();
   return (
     <div className='w-full flex justify-between p-5 border-b-2 items-center'>
       {/* left */}
       <div className="flex-1 flex items-center">
-        <Menu />
+        {checkPath.includes("docs") && <Menu />}
         <Navigation />
       </div>
       {/* middle */}
