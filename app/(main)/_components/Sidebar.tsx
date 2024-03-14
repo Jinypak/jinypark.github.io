@@ -17,13 +17,13 @@ const Sidebar = () => {
           </h2>
           <div className='space-y-1'>
             <Button variant='ghost' className='w-full justify-start' asChild>
-              <Link href='/c_lang'>C</Link>
+              <Link href='/docs/c_lang'>C</Link>
             </Button>
             <Button variant='ghost' className='w-full justify-start' asChild>
-              <Link href='/javascript'>JavaScript</Link>
+              <Link href='/docs/javascript'>JavaScript</Link>
             </Button>
             <Button variant='ghost' className='w-full justify-start' asChild>
-              <Link href='/rust'>Rust</Link>
+              <Link href='/docs/rust'>Rust</Link>
             </Button>
           </div>
         </div>

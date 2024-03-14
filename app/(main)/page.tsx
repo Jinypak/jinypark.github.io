@@ -34,7 +34,7 @@ const page = (props: Props) => {
             </CardDescription>
             <CardFooter className='flex justify-center items-center'>
               <Button asChild>
-                <Link href=''>Go to Docs</Link>
+                <Link href='/omi'>Go to Docs</Link>
               </Button>
             </CardFooter>
           </CardHeader>
